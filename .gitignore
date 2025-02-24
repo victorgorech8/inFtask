@@ -1,0 +1,15 @@
+# Игнорировать папку build
+/build/
+
+# Игнорировать сгенерированные файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Игнорировать бинарные файлы
+*.o
+*.so
+*.a
+program1/program1
+program2/program2
